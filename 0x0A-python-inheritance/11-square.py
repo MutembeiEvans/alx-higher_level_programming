@@ -1,5 +1,3 @@
-
-
 #!/usr/bin/python3
 """Square module.
 Contains a class Square that inherits from
