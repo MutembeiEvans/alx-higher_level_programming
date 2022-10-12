@@ -1,5 +1,3 @@
-
-
 #!/usr/bin/python3
 """
 Script that prints the `State` object in `hbtn_0e_0_usa`
